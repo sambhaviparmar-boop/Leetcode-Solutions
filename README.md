@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0566-reshape-the-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
