@@ -11,6 +11,7 @@
 | [0566-reshape-the-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1480-running-sum-of-1d-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
