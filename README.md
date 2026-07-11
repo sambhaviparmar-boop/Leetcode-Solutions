@@ -14,6 +14,7 @@
 | [0566-reshape-the-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1480-running-sum-of-1d-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Prefix Sum
 |  |
