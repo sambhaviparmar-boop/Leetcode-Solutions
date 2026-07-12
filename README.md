@@ -51,6 +51,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -79,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
