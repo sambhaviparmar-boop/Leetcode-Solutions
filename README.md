@@ -29,6 +29,7 @@
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0389-find-the-difference](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [2418-sort-the-people](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
