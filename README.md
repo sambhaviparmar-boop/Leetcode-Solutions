@@ -126,6 +126,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2299-strong-password-checker-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2418-sort-the-people) |
