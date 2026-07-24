@@ -51,6 +51,7 @@
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2399-check-distances-between-same-letters) |
@@ -135,6 +136,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2315-count-asterisks) |
@@ -151,6 +153,7 @@
 | [0169-majority-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
