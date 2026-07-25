@@ -51,6 +51,7 @@
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -135,6 +136,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -157,6 +159,7 @@
 | [0169-majority-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
