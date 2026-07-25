@@ -73,6 +73,7 @@
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
