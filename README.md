@@ -18,6 +18,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
