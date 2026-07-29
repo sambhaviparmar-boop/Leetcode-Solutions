@@ -29,6 +29,7 @@
 | [1672-richest-customer-wealth](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2399-check-distances-between-same-letters](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2418-sort-the-people) |
@@ -53,6 +54,7 @@
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -142,6 +144,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -166,6 +169,7 @@
 | [0169-majority-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
