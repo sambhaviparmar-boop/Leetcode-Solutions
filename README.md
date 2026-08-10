@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0048-rotate-image) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
