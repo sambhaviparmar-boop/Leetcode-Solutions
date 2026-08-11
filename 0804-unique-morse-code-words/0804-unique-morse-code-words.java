@@ -4,15 +4,17 @@ class Solution {
         HashSet<String> set = new HashSet<>();
 
         for(String word: words){
-            StringBuilder sb = new StringBuilder();
+            // StringBuilder sb = new StringBuilder();
+
+            String temp = "";
 
             for(int i=0; i<word.length(); i++){
             char ch = word.charAt(i);
 
-            sb.append(morse[ch-'a']);
+           temp = temp + (morse[ch-'a']);
            
         }
-         set.add(sb.toString());
+         set.add(temp);
         }
        return  set.size();
     }
