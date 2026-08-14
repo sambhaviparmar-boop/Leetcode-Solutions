@@ -5,35 +5,31 @@ class Solution {
        Arrays.sort(nums);
 
        for(int i=0; i<n ; i++){
-       int j = i+1;
-       int k = n-1;
+        int j = i+1;
+        int k = n-1;
+           
+           if(i>0 && nums[i]==nums[i-1]) continue;
 
-       if(i>0 && nums[i] == nums[i-1]) continue;
+           while(j<k){
+            int sum = nums[i] + nums[j] + nums[k];
 
-       while(j < k){
-       int sum = nums[i] + nums[j] + nums[k];
+            if(sum>0) k--;
+           else if(sum<0) j++;
+            else{
+                ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
+                j++;
+                k--;
 
-       if(sum>0){
-        k--;
-       }
+                   while(j<k && nums[j]==nums[j-1]){
+                j++;
+            }
+            }
 
-       else if(sum <0){
-        j++;
-       }
-
-       else{
-        ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
-        j++;
-        k--;
-
-         while(j<k && nums[j]== nums[j-1]){
-        j++;
-       }
-       }
-       }
-
-      
+         
+           }
        }
        return new ArrayList<>(ans);
     }
 }
+
+
