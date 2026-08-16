@@ -36,6 +36,7 @@
 | [0819-most-common-word](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -252,6 +253,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
