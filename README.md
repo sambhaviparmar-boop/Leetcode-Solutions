@@ -79,6 +79,7 @@
 | [0383-ransom-note](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -201,6 +202,7 @@
 | [0383-ransom-note](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -283,6 +285,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
