@@ -159,6 +159,7 @@
 | [0067-add-binary](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -328,6 +329,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
