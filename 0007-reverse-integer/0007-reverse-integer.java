@@ -7,8 +7,7 @@ class Solution {
 
             int dig = x % 10;
 
-            if (revNum > Integer.MAX_VALUE / 10 ||
-                (revNum == Integer.MAX_VALUE / 10 && dig > 7)) {
+            if (revNum > Integer.MAX_VALUE / 10) {
                 return 0;
             }
 
