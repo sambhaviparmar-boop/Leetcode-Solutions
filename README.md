@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
