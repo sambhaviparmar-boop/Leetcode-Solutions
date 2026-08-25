@@ -11,8 +11,7 @@ class Solution {
                 return 0;
             }
 
-            if (revNum < Integer.MIN_VALUE / 10 ||
-                (revNum == Integer.MIN_VALUE / 10 && dig < -8)) {
+            if (revNum < Integer.MIN_VALUE / 10 ) {
                 return 0;
             }
 
