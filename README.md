@@ -151,6 +151,7 @@
 | [0067-add-binary](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -166,6 +167,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -338,6 +340,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
