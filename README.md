@@ -164,6 +164,7 @@
 | [0009-palindrome-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -346,6 +348,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
