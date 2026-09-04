@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -138,6 +139,7 @@
 | [0088-merge-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -167,6 +169,7 @@
 | [0067-add-binary](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0231-power-of-two) |
