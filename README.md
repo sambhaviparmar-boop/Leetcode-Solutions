@@ -47,6 +47,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
@@ -146,6 +147,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
