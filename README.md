@@ -32,6 +32,7 @@
 | [0229-majority-element-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0494-target-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -284,6 +285,7 @@
 | [0070-climbing-stairs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -367,6 +369,7 @@
 | [0022-generate-parentheses](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -391,4 +394,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
