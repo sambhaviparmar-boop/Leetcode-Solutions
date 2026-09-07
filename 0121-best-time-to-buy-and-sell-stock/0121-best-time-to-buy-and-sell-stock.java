@@ -1,20 +1,15 @@
 class Solution {
     public int maxProfit(int[] arr) {
-        int smallest = arr[0];
-        int highest = 0;
-        int result;
+       int maxProfit = 0;
+       int BB = arr[0];
 
-        for(int i=1; i<arr.length; i++){
+       for(int i=1; i<arr.length; i++){
 
-            if(arr[i]<smallest){
-                    smallest = arr[i];
-             }
-             result = arr[i] - smallest;
-
-             if(result>highest){
-                highest = result;
-             }
-        }
-        return highest;
+          if(arr[i] > BB){
+            maxProfit = Math.max(maxProfit , arr[i]-BB);
+          }
+          BB = Math.min(BB, arr[i]);
+       }
+       return maxProfit;
     }
 }
