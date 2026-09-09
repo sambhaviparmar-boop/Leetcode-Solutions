@@ -9,11 +9,10 @@ class Solution {
           }
           else{
             vote--;
-
-            if(vote == 0){
+          }
+          if(vote == 0){
             winner = nums[i];
             vote++;
-          }
           }
           
       }
