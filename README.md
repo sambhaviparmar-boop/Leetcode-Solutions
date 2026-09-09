@@ -355,6 +355,7 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
