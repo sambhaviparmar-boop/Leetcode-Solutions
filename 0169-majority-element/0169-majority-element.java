@@ -1,21 +1,22 @@
 class Solution {
     public int majorityElement(int[] nums) {
+      int winner = nums[0];
+      int vote = 1;
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+      for(int i=1; i<nums.length; i++){
+          if(nums[i] == winner){
+               vote++;
+          }
+          else{
+            vote--;
 
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-
-        int maxFreq = 0;
-        int ans = nums[0];
-
-        for (int key : map.keySet()) {
-            if (map.get(key) > maxFreq) {
-                maxFreq = map.get(key);
-                ans = key;
-            }
-        }
-        return ans;
+            if(vote == 0){
+            winner = nums[i];
+            vote++;
+          }
+          }
+          
+      }
+      return winner;
     }
 }
