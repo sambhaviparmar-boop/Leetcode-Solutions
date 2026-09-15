@@ -60,6 +60,7 @@
 | [1089-duplicate-zeros](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
