@@ -37,6 +37,7 @@
 | [0229-majority-element-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
