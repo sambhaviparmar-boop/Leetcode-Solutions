@@ -1,14 +1,27 @@
 class Solution {
     public int missingNumber(int[] nums) {
-     HashSet<Integer> set = new HashSet<>();
-        for(int num : nums){
-           set.add(num);
+        int i = 0;
+
+       //cyclic Sort
+        while(i < nums.length){
+          int curr = nums[i];  
+         
+          if(nums[i] < nums.length && nums[i] != nums[curr]){
+                int temp = nums[i];
+                nums[i] = nums[curr];
+                nums[curr] = temp;
+            }
+            else{
+                i++;
+            }
         }
-        for(int i=0; i<=nums.length; i++){
-               if(!set.contains(i)){
-                return i;
-               }
+
+       //again check
+        for(int j =0 ; j<nums.length ; j++){
+            if(nums[j] != j){
+                return j;
+            }
         }
-        return -1;
+        return i;
     }
 }
