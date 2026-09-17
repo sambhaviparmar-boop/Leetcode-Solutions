@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0047-permutations-ii) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
