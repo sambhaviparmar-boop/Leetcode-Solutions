@@ -55,6 +55,7 @@
 | [0867-transpose-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,6 +166,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -218,6 +220,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
