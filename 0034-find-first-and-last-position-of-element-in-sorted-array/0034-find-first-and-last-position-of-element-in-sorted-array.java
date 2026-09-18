@@ -1,49 +1,47 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] arr = new int[2];
-        int start = 0;
-        int end = nums.length - 1;
-        int firstApp = -1;
-        int secondApp = -1;
+    int[] arr = new int[2];
+    int s = 0;
+    int e = nums.length-1;
+    int firstPos = -1;
+    int lastPos = -1;
 
-        while (start < end + 1) {
-            int mid = (start + end) / 2;
-            if (nums[mid] == target) {
-                firstApp = mid;
-                end = mid - 1;
-            }
+//left
+    while(s <= e){
+        int mid = s + (e-s)/2;
 
-            if (nums[mid] < target) {
-                start = mid + 1;
-            }
-
-            else if (nums[mid] > target) {
-                end = mid - 1;
-            }
+        if(nums[mid] == target){
+            firstPos = mid;
+            e = mid-1;
         }
-
-        start = 0;
-        end = nums.length - 1;
-
-        while (start < end + 1) {
-            int mid = (start + end) / 2;
-            if (nums[mid] == target) {
-
-                secondApp = mid;
-                start = mid + 1;
-            }
-
-            if (nums[mid] < target) {
-                start = mid + 1;
-            }
-
-            else if (nums[mid] > target) {
-                end = mid - 1;
-            }
+        else if (nums[mid] < target){
+            s = mid+1;
         }
-
-        arr[0] = firstApp;
-        arr[1] = secondApp;
-        return arr;
+        else if(nums[mid] > target){
+            e = mid-1;
+        }
     }
+
+//right
+     s = 0;
+     e = nums.length-1 ;
+     while(s <= e){
+        int mid = s + (e-s)/2;
+
+        if(nums[mid] == target){
+            lastPos = mid;
+            s = mid+1;
+        }
+        else if (nums[mid] < target){
+            s = mid+1;
+        }
+        else if(nums[mid] > target){
+            e = mid-1;
+        }
+    }
+     arr[0] = firstPos;
+     arr[1] = lastPos;
+
+     return arr;
+}
 }
