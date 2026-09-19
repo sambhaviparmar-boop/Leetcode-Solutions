@@ -1,29 +1,34 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int next = 0;
+        //repeatd number milgya
+        int n = nums.length;
         int repeat = 0;
-        for (int i = 0; i < nums.length - 1; i++) {
-    for (int j = i + 1; j < nums.length; j++) {
-        if (nums[i] == nums[j]) {
-            repeat = nums[i];
+        int next = 0;
+
+        for(int i = 0; i<n ; i++){
+          for(int j = i+1; j<n ; j++){
+            if(nums[i] == nums[j]){
+                repeat = nums[i];
+            }
+          }
         }
-    }
-}
+        
 
-for (int i = 1; i <= nums.length; i++) {
-    boolean found = false;
+//index find krenge isse 
+     
+     for(int i = 1; i<= n ; i++){
+        boolean found = false;
 
-    for (int j = 0; j < nums.length; j++) {
-        if (nums[j] == i) {
-            found = true;
-            break;
+        for(int j = 0; j< n ; j++){
+            if(nums[j] == i){
+                found = true;
+                break;
+            }
         }
-    }
-
-    if (!found) {
-        next = i;
-    }
-}
-        return  new int[]{repeat, next};
+        if(!found){
+            next = i;
+        }
+     }
+        return new int[]{repeat , next};
     }
 }
