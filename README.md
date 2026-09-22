@@ -204,6 +204,7 @@
 | [0231-power-of-two](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -333,6 +334,7 @@
 | [0278-first-bad-version](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
