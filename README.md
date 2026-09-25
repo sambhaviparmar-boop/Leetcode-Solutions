@@ -62,6 +62,7 @@
 | [0904-fruit-into-baskets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -115,6 +116,7 @@
 | [0804-unique-morse-code-words](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1748-sum-of-unique-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -239,6 +241,7 @@
 | [0238-product-of-array-except-self](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -356,6 +359,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
