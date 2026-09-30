@@ -83,6 +83,7 @@
 | [1929-concatenation-of-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2399-check-distances-between-same-letters](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2418-sort-the-people) |
@@ -125,6 +126,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2325-decode-the-message) |
