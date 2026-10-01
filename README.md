@@ -27,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -96,6 +97,7 @@
 | [0001-two-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -500,4 +502,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
