@@ -52,6 +52,7 @@
 | [0566-reshape-the-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -180,6 +181,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -238,6 +240,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -351,6 +354,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -367,6 +371,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -453,6 +458,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
