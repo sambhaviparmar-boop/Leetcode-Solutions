@@ -22,6 +22,7 @@
 | [0048-rotate-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -208,6 +209,7 @@
 | [0009-palindrome-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
