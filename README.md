@@ -425,6 +425,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -517,4 +518,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
