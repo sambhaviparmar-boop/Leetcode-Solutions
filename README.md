@@ -77,6 +77,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [1390-four-divisors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -229,6 +230,7 @@
 | [0367-valid-perfect-square](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1390-four-divisors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [2965-find-missing-and-repeated-values](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -461,6 +463,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1390-four-divisors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1390-four-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -532,4 +535,8 @@
 | [0142-linked-list-cycle-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
