@@ -21,6 +21,7 @@
 | [0047-permutations-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -347,6 +348,7 @@
 | [0022-generate-parentheses](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -400,6 +402,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## String Matching
