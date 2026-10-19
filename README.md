@@ -554,9 +554,18 @@
 | [0203-remove-linked-list-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prime Factorization
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1390-four-divisors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
