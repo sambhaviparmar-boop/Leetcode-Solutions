@@ -419,6 +419,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -577,4 +578,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
