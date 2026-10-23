@@ -167,6 +167,7 @@
 | [0067-add-binary](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -200,6 +201,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -300,6 +302,7 @@
 | [0771-jewels-and-stones](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -426,6 +429,7 @@
 | [0234-palindrome-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
