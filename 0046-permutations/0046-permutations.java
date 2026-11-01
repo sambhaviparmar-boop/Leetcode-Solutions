@@ -1,35 +1,39 @@
 class Solution {
 
-   public void permut(int nums[],List<List<Integer>> ans,int index){
-    if(index == nums.length){
-        ArrayList<Integer> temp = new ArrayList<>();
+   public void permut(int nums[],List<List<Integer>> ans, List<Integer> temp,boolean[] visited  ){
 
-        for(int i=0; i<nums.length; i++){
-            temp.add(nums[i]);
-        }
-        ans.add(temp);
+
+    //base case
+    if(nums.length == temp.size()){
+        ans.add(new ArrayList<>(temp));
         return;
     }
 
-    for(int i=index; i<nums.length; i++){
-        int temp = nums[i];
-        nums[i] = nums[index];
-        nums[index] = temp;
+    for(int i=0 ; i<nums.length; i++){
 
-        permut(nums, ans, index+1);
+        if(!visited[i]){
+            visited[i] = true;
+            temp.add(nums[i]);
 
-          temp = nums[i];
-        nums[i] = nums[index];
-        nums[index] = temp;
+            permut(nums, ans , temp, visited);
 
+           //for backtracking
+            visited[i] = false;
+            temp.remove(temp.size()-1);
+        }
     }
+
+    
    }
 
 
     public List<List<Integer>> permute(int[] nums) {
-       List<List<Integer>> ans = new ArrayList<>();
+      List<List<Integer>> ans = new ArrayList<>();
+      List<Integer> temp = new ArrayList<>();
+      boolean[] visited = new boolean[nums.length];
 
-       permut(nums, ans, 0);
+       permut(nums , ans , temp ,visited );
+
        return ans;
     }
 }
