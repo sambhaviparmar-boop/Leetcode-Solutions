@@ -1,36 +1,45 @@
 class Solution {
      void permute(int[] nums, List<List<Integer>> ans , int index){
 
-    if(index == nums.length){
-        List<Integer> temp = new ArrayList<>();
+       //base case
+       if(index == nums.length){
+        ArrayList<Integer> temp = new ArrayList<>();
 
-        for(int num : nums){
-            temp.add(num);
+        for(int i=0 ; i<nums.length ; i++){
+            temp.add(nums[i]);
         }
         ans.add(temp);
         return;
-    }
+       }
 
 
-        int[] use = new int[21];
+       boolean[] use = new boolean[21];
 
-        for(int i=index; i<nums.length; i++){
+       for(int i=index ; i<nums.length; i++){
+           
+           if(!use[nums[i]+10]){
 
-            if(use[nums[i] + 10] == 0){
-                int temp = nums[i];
-                nums[i] = nums[index];
-                nums[index] = temp;
+            use[nums[i] + 10] = true;
 
-                permute(nums, ans, index+1);
+             int temp = nums[index];
+             nums[index] = nums[i];
+             nums[i] = temp;
+           
 
-                int temp1 = nums[i];
-                nums[i] = nums[index];
-                nums[index] = temp1;
+           permute(nums, ans , index+1);
 
-                use[nums[i]+10] = 1;
+        //for backtracking again swap
+             temp = nums[index];
+             nums[index] = nums[i];
+             nums[i] = temp;
 
-            }
-        }
+
+             
+           }
+       }
+
+
+
      }
 
 
