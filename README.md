@@ -436,6 +436,7 @@
 | [0020-valid-parentheses](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -601,6 +602,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -629,4 +631,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sambhaviparmar-boop/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
